@@ -9,4 +9,3 @@ class Solution:
       return count
 
 # Disclaimer : not the optimal way but can be solved by this
-
