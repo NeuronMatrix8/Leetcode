@@ -8,3 +8,4 @@ class Solution:
                 num = num - 1
             steps += 1
         return steps
+
