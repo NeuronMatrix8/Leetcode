@@ -5,3 +5,4 @@ class Solution:
             sum += nums[i] 
             nums[i] = sum
         return nums
+        
